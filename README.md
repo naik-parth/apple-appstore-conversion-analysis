@@ -11,7 +11,7 @@ Apple is aggressively expanding its Services revenue (Apple Music, TV+, iCloud+,
 **Strategic Recommendation:** Reallocate 20% of the Q3 performance marketing budget away from TikTok Influencer campaigns and channel it into App Store Search Optimization (ASO) and targeted Holiday Bundles for the Apple TV+ segment.
 
 ## 📊 Executive Dashboard
-[📊 View the Interactive Tableau Dashboard Here](INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[📊 View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/AppleServicesTrial-to-PaidConversionStrategy/AppleServicesTrial-to-PaidConversionStrategy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard Screenshot](assets/dashboard_screenshot.png)
 
