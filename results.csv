@@ -1,0 +1,21 @@
+app_name,campaign_name,total_matured_trials,first_time_ecosystem_users,conversion_rate_pct,total_revenue_generated,campaign_rank_within_app
+Apple Arcade,Organic Search,68,54,41.18,719.28000000000009,1
+Apple Arcade,Holiday Bundle Promo,72,40,37.5,689.31000000000029,2
+Apple Arcade,iPhone Upgrade Cross-Sell,80,58,33.75,659.34000000000015,3
+Apple Arcade,TikTok Influencer Campaign,77,51,32.47,559.44000000000017,4
+Apple Fitness+,Organic Search,68,46,41.18,839.16000000000031,1
+Apple Fitness+,Holiday Bundle Promo,82,55,36.59,809.1900000000004,2
+Apple Fitness+,TikTok Influencer Campaign,78,53,35.9,619.38000000000022,3
+Apple Fitness+,iPhone Upgrade Cross-Sell,70,48,32.86,579.42,4
+Apple Music,Organic Search,78,45,43.59,889.11000000000035,1
+Apple Music,Holiday Bundle Promo,75,55,38.67,759.24000000000012,2
+Apple Music,iPhone Upgrade Cross-Sell,74,58,33.78,579.4200000000003,3
+Apple Music,TikTok Influencer Campaign,68,50,30.88,419.58000000000004,4
+Apple TV+,Holiday Bundle Promo,82,54,37.8,679.32000000000016,1
+Apple TV+,iPhone Upgrade Cross-Sell,64,40,32.81,409.59000000000003,2
+Apple TV+,Organic Search,71,35,32.39,509.49000000000012,3
+Apple TV+,TikTok Influencer Campaign,65,47,30.77,439.56,4
+iCloud+,Organic Search,62,44,37.1,579.42000000000019,1
+iCloud+,iPhone Upgrade Cross-Sell,80,58,36.25,749.25000000000023,2
+iCloud+,Holiday Bundle Promo,83,57,36.14,799.20000000000039,3
+iCloud+,TikTok Influencer Campaign,75,52,26.67,609.3900000000001,4
